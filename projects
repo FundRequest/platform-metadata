@@ -3,45 +3,54 @@
    {
       "title":"Brave",
       "small_description": "Web browser based on the Chromium ",
+      "background-color" : "#f67034"
    },
 "TrustWallet": 
    {
       "title":"Trust Wallet",
       "small_description": "Secure wallet for Ethereum",
+      "background-color" : "#3673ba"
    },
 "FundRequest": 
    {
       "title":"FundRequest",
       "small_description": "Marketplace for software development",
+      "background-color" : "#3ebb62"
    },
 "golemfactory": 
    {
       "title":"Golem Factory",
       "small_description": "Decentralized supercomputer",
+      "background-color" : "#032b63"
    },
 "poanetwork": 
    {
       "title":"PoA Network",
       "small_description": "Proof of Authority Ethereum sidechain",
+      "background-color" : "#5b24a2"
    },
 "aragon": 
    {
       "title":"Aragon",
       "small_description": "Building unstoppable organization",
+      "background-color" : "#32c7e1"
    },
 "nebulasio": 
    {
       "title":"Nebulas",
       "small_description": "Self-evolving blockchain",
+      "background-color" : "#000000"
    },
 "MetaMask": 
    {
       "title":"MetaMask",
       "small_description": "Brings Ethereum to your web browser",
+      "background-color" : "#f38532"
    },
 "trufflesuite": 
    {
       "title":"Truffle Suite",
       "small_description": "Development framework for Ethereum",
+      "background-color" : "#5e464d"
    }
 }
