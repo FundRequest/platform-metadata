@@ -52,5 +52,11 @@
       "title":"WallΞTH",
       "small_description": "The native Android Ethereum wallet",
       "background-color" : "#5d5d5e"
+   },
+"Zilliqa":
+   {
+      "title":"Zilliqa",
+      "small_description": "High-throughput blockchain platform",
+      "background-color" : "#23a5a8"
    }
 }
